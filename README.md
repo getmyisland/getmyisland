@@ -2,4 +2,8 @@
 
 My name is Maximilian Fischer and I will soon start an apprenticeship as a software developer. I'm currently developing games with Unity and I also have experience in developing websites.
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## Contact and Social Media
+
+You can find the Steam page for my newest game [here](https://store.steampowered.com/app/1738710/SCP_Observer/). You can also subscribe to my [YouTube channel](https://www.youtube.com/channel/UCfdRmRv5aAECBAeawrv5OJg) where I upload videos about my games from time to time or visit my [Itch.io page](https://getmyisland.itch.io/) to see my currently existing games.
+
+You can contact me via [E-Mail](mailto:getmyisland@gmail.com).
