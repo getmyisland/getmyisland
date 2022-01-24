@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-My name is Maximilian Fischer, I'm a 17 year old hobby programmer. I'm mainly making games with Unity, but I also have experience in developing websites and small apps with Java or C++.
+My name is Maximilian Fischer, I'm a 17 year old hobby programmer. I'm mainly making games with Unity, but I also have experience in developing websites with Javascript, HTML and CSS as well as developing small applications with Java or C++.
 
 ## Contact and Social Media
 
