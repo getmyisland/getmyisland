@@ -1,18 +1,18 @@
-### Hey! 👋
+# Hey!
 
-My name is Maximilian Fischer, I'm a 17 year old hobby programmer. I'm mainly making games with Unity, but I also have experience in developing websites with Javascript, HTML and CSS as well as developing small applications with Java or C++.
+I'm GetMyIsland a 17 year old hobby programmer. In my freetime I do all kinds of things, like making games with Unity, developing websites with Javascript, HTML and CSS as well as developing small applications with Java or C++. I'm mainly interested in Software Development, Cybersecurity and Ethical Hacking.
 
-## Contact and Social Media
+## Social Media
 
 You can find my own website, which I created, at [getmyisland.com](https://www.getmyisland.com/).
 
-I'm currently focusing on developing a new game, which will get announced sometime in the future [SCP Observer](https://store.steampowered.com/app/1738710/SCP_Observer/), my first still unreleased game, is a mix of two of my favorite games and I will release it soon for free on Steam. 
+I'm uploading game trailers and other random content to my [YouTube channel](https://www.youtube.com/channel/UCfdRmRv5aAECBAeawrv5OJg) and if you want to play some of my already existing games you can go to my [Itch.io page](https://getmyisland.itch.io/).
 
-If you like my content you can subscribe to my [YouTube channel](https://www.youtube.com/channel/UCfdRmRv5aAECBAeawrv5OJg) where I upload videos about my games from time to time or visit my [Itch.io page](https://getmyisland.itch.io/) to see my currently existing games.
+## Contact
 
-You can contact me via [E-Mail](mailto:getmyisland@gmail.com).
+You can contact me via [E-Mail](mailto:getmyisland@gmail.com) or message me on [Twitter](https://twitter.com/getmyisland).
 
-
+```
                                _
                            ,--.\`-. __
                          _,.`. \:/,"  `-._
@@ -37,4 +37,5 @@ You can contact me via [E-Mail](mailto:getmyisland@gmail.com).
      ~~   ~   ~~~     ~~~ ~         ~~       ~~   ~~
               ~        ~~       ~~~       ~
               
-asciiart.eu          
+asciiart.eu
+```
