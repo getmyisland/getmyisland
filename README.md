@@ -1,10 +1,10 @@
 # Hey!
 
-I'm Maximilian Fischer aka GetMyIsland, a 17-year-old apprentice programmer living in Germany, and I love tinkering with computers. I'm currently developing applications with Java and in my spare time I learn more about cybersecurity and ethical hacking. My goal is to become a penetration tester.
+I'm Maximilian, a 17-year-old software development apprentice living in Germany, and I love tinkering with computers. I'm currently developing applications with Java and C++. I invest my free time in developing personal projects and learning about cybersecurity.
 
 ## Contact
 
-You can find my own website at [getmyisland.com](https://www.getmyisland.com/) and message me via [E-Mail](mailto:getmyisland@gmail.com).
+Visit my own website at [getmyisland.com](https://www.getmyisland.com/) or message me via E-Mail ([getmyisland@gmail.com](mailto:getmyisland@gmail.com)).
 
 ```
                                _
