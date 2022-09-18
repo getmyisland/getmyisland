@@ -1,6 +1,6 @@
 # Hey!
 
-I'm Maximilian, a 17-year-old software development apprentice living in Germany, and I love tinkering with computers. I'm currently developing applications with Java and C++. I invest my free time in developing personal projects and learning about cybersecurity.
+I'm Max, aka GetMyIsland, and I'm a 17 year-old programmer living in Germany. I develop personal projects with Java, Python and C++.
 
 ## Contact
 
