@@ -1,6 +1,6 @@
 # Hey!
 
-I'm Max, aka GetMyIsland, and I'm a 18 year-old programmer living in Germany. I develop personal projects with Java, Python and C++.
+I'm Max, aka GetMyIsland, a 18 year-old programmer living in Germany. I develop games and personal projects with Java, C#, Python and C++.
 
 ## Contact
 
